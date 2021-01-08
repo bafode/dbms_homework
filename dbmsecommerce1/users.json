@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "5fd634e1bdb12208804b63e2"
+  },
+  "role": 0,
+  "history": [],
+  "name": "bafode camara",
+  "email": "bafodecamara@gmail.com",
+  "salt": "e75c14c0-3d58-11eb-a7ec-3f6fb80ec488",
+  "hashed_password": "d49ae5190769a577d645084bc0c5b960f0eca15a",
+  "createdAt": {
+    "$date": "2020-12-13T15:36:01.311Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-13T15:36:01.311Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd7470f65e17a3c845d9ffa"
+  },
+  "role": 0,
+  "history": [],
+  "name": "bafode camara",
+  "email": "bafode@gmail.com",
+  "salt": "53b277b0-3dfc-11eb-bc7f-2d8ac342f562",
+  "hashed_password": "b9f653771d7bfbe76d360b68933d153af8a2a17b",
+  "createdAt": {
+    "$date": "2020-12-14T11:05:51.035Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-14T11:05:51.035Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd749fc65e17a3c845d9ffb"
+  },
+  "role": 1,
+  "history": [],
+  "name": "bafode camara",
+  "email": "root@gmail.com",
+  "salt": "1246a7e0-3dfe-11eb-bc7f-2d8ac342f562",
+  "hashed_password": "50b7bca21ac0389208d7b2e9277f071c1acc35cb",
+  "createdAt": {
+    "$date": "2020-12-14T11:18:20.256Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-14T11:18:20.256Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fdc94c669ed4c037c3fd8bb"
+  },
+  "role": 0,
+  "history": [],
+  "name": "bafode",
+  "email": "bafod@gmail.com",
+  "salt": "96b23970-4125-11eb-aed4-05679008abc0",
+  "hashed_password": "88182ba9ee62498bb6e948e6618287266e34043b",
+  "createdAt": {
+    "$date": "2020-12-18T11:38:46.288Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-18T11:38:46.288Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe64c596b4f3e115ba61f49"
+  },
+  "role": 1,
+  "history": [],
+  "name": "theophile",
+  "email": "theo@gmail.com",
+  "salt": "4ca32df0-46f0-11eb-a672-33689b79bfd3",
+  "hashed_password": "015f8dcda405c8b8254a5997854f9c6d9e6bd9a8",
+  "createdAt": {
+    "$date": "2020-12-25T20:32:25.687Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-25T20:32:25.687Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fea06924d916e1fe80cba4e"
+  },
+  "role": 0,
+  "history": [],
+  "name": "Therno Balde",
+  "email": "thierno@gmail.com",
+  "salt": "0f29da60-4929-11eb-91e8-8bbf414e37c7",
+  "hashed_password": "4f43cf9445e74dbbe38e4eba3a450bbac5e76237",
+  "createdAt": {
+    "$date": "2020-12-28T16:23:46.184Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-28T16:23:46.184Z"
+  },
+  "__v": 0
+}]

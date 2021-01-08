@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "5fdf40302da11a2b9c1bbaf6"
+  },
+  "name": "Parfum",
+  "createdAt": {
+    "$date": "2020-12-20T12:14:40.952Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-20T12:14:40.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fdf40532da11a2b9c1bbaf7"
+  },
+  "name": "Cothes",
+  "createdAt": {
+    "$date": "2020-12-20T12:15:15.261Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-20T12:15:15.261Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fdf40732da11a2b9c1bbaf8"
+  },
+  "name": "Shoes",
+  "createdAt": {
+    "$date": "2020-12-20T12:15:47.400Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-20T12:15:47.400Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fdf45fc2da11a2b9c1bbaf9"
+  },
+  "name": "Hair Shampoo",
+  "createdAt": {
+    "$date": "2020-12-20T12:39:24.887Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-20T12:39:24.887Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe5c40dd0be81183491d7b8"
+  },
+  "name": "Bazin",
+  "createdAt": {
+    "$date": "2020-12-25T10:50:53.858Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-25T10:50:53.858Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fed858cc86bb919d3112ae1"
+  },
+  "name": "textile",
+  "createdAt": {
+    "$date": "2020-12-31T08:02:20.080Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-31T08:02:20.080Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fed8cd5dfd71e21a7221015"
+  },
+  "name": "telephone",
+  "createdAt": {
+    "$date": "2020-12-31T08:33:25.538Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-31T08:33:25.538Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fed946bcfe5ae22eeb20e83"
+  },
+  "name": "mm",
+  "user": {
+    "$oid": "5fe64c596b4f3e115ba61f49"
+  },
+  "createdAt": {
+    "$date": "2020-12-31T09:05:47.437Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-31T09:05:47.437Z"
+  },
+  "__v": 0
+}]
